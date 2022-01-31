@@ -20,6 +20,10 @@ export default function Main(){
                    curious as to how I can use computer science to solve real-life problems. So far, I have learned to code 
                    in Python, Java, C , HTML and Javascript. besides programming, my hobbies are playing soccer, video games
                    and reading books.</p>
+                <h2>Projects</h2> 
+                <p>coming soon...</p>
+                <h2>Resume</h2>
+                <p>Click <a href="https://docs.google.com/document/d/10ARVjj3wE4gS4KCW9tpa-SieTwblfdDK/edit" target="_blank" rel="noopener noreferrer"> here</a> to view my resume.</p> 
             </article>             
         </div>
     )
