@@ -4,7 +4,7 @@ import "./nav.css"
 export default function Nav(){
     return(
         <nav className='nav'>
-          <h1>Hi! I am Pramit Thapa</h1>
+          <h1 className="header">Hi! I am Pramit Thapa</h1>
           <ul className='nav-items'>
             <li>About</li>
             <li>Projects</li>

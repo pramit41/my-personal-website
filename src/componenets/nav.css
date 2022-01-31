@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: aqua;
+    background-color: #250d4d;
   }
   
   .nav-items {
@@ -11,5 +11,10 @@
   }
   
   .nav-items > li {
-    padding: 10px
+    padding: 10px;
+    color: white;
+  }
+
+  h1 {
+    color: white;
   }
